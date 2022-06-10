@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jithintkuriakose
 - 👀 I’m interested in java development and related open source initiatives
-- 🌱 I’m currently learning Scala.
 - 📫 You can reach me on contact@jithinkuriakose.tech
 
 <!---
