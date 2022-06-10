@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jithintkuriakose
 - 👀 I’m interested in java development and related open source initiatives
 - 🌱 I’m currently learning Scala.
-- 📫 You can reach me on ledger_farrows0y@icloud.com(private relay...!!!)
+- 📫 You can reach me on contact@jithinkuriakose.tech
 
 <!---
 jithintkuriakose/jithintkuriakose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
